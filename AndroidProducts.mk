@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_spes.mk
+    $(LOCAL_DIR)/spark_spes.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_spes-user \
-    lineage_spes-userdebug \
-    lineage_spes-eng
+    spark_spes-user \
+    spark_spes-userdebug \
+    spark_spes-eng
